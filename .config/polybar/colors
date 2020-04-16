@@ -1,0 +1,15 @@
+;background = #11212b
+background = ${xrdb:background}
+;background-alt = #11212b
+background-alt = ${xrdb:background}
+;foreground = ${xrdb:color7}
+;foreground = ${xrdb:color3}
+foreground = ${xrdb:foreground}
+foreground-alt = ${xrdb:color8}
+primary = ${xrdb:color10}
+secondary = ${xrdb:color10}
+;alert = 
+alert = ${xrdb:color11}
+;desktop = #333333
+desktop = ${xrdb:color1}
+extend = ${xrdb:color6}

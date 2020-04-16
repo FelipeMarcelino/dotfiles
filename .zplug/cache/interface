@@ -1,0 +1,9 @@
+denysdovhan/spaceship-prompt, as:theme from:github use:spaceship.zsh
+djui/alias-tips
+hlissner/zsh-autopair, defer:2
+lib/*, from:oh-my-zsh
+plugins/fasd, as:plugin from:oh-my-zsh
+plugins/git, from:oh-my-zsh
+plugins/vi-mode, as:plugin from:oh-my-zsh
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-history-substring-search

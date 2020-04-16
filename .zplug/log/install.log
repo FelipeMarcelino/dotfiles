@@ -1,0 +1,9 @@
+repo:lib/*	status:0
+repo:plugins/fasd	status:0
+repo:plugins/git	status:0
+repo:hlissner/zsh-autopair	status:0
+repo:djui/alias-tips	status:0
+repo:zsh-users/zsh-history-substring-search	status:0
+repo:zsh-users/zsh-autosuggestions	status:0
+repo:plugins/vi-mode	status:0
+repo:denysdovhan/spaceship-prompt	status:0

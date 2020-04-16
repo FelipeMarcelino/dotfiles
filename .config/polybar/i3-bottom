@@ -1,0 +1,42 @@
+; modules
+modules-left = tor one-bar rldTor one-bar spotify 
+modules-center = line-l date line-r
+modules-right = system-nvidia-smi-usage system-nvidia-smi-temp netstat wlan eth
+
+; others
+width = 92%
+heigth = 0 
+offset-x = 4%
+offset-y = 1
+radius = 0
+fixed-center = true 
+background = ${colors.background}
+foreground = ${colors.foreground}
+line-size = 0
+line-color = #f00
+;border-top-size = 1
+;border-top-color = #000000
+padding-left = 2
+padding-right = 2
+module-margin-left = 0
+module-margin-right = 0
+font-0 = "FuraCode Nerd Font:style=Regular:pixelsize=8;2;"
+;font-4 = Liberation Mono:style=Regular:pixelsize=7;1
+;font-2 = Material Icons:antialias=false:size=8;3
+;font-3 = "Font Awesome 5 Brands:pixelsize=11;1"
+;font-4 = "icomoon:size=10;2"
+;font-1 = "Font Awesome 5 Brands:pixelsize=11;1"
+;font-2 = "MaterialIcons:size=10;2"
+;font-3 = "icomoon:size=10;2"
+;font-4 = "Ubuntu Mono Nerd Font:size=10:;2"
+cursor-click = pointer
+cursor-scroll = ns-resize
+separator = "  "
+wm-restack = i3
+override-redirect = true
+scroll-up = i3wm-wsnext
+scroll-down = i3wm-wsprev
+bottom = true
+enable-ipc = true
+
+

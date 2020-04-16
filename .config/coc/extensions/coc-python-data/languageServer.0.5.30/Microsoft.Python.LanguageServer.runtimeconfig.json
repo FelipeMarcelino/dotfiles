@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "tfm": "netcoreapp3.0",
+    "configProperties": {
+      "System.Runtime.TieredCompilation": true
+    }
+  }
+}
