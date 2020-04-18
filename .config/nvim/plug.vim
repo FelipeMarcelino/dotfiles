@@ -36,7 +36,13 @@ Plug 'Yggdroot/indentLine'
 
 Plug 'kkoomen/vim-doge'
 
+Plug 'thaerkh/vim-workspace'
+
 Plug 'chrisbra/csv.vim'
+
+Plug 'lervag/vimtex'
+
+Plug 'honza/vim-snippets'
 
 call plug#end()
 

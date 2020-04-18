@@ -173,3 +173,6 @@ alias mirrorUpdate='sudo reflector --latest 250 --protocol https --sort rate --s
 # Export activated conda env to yml
 alias expenv='conda env export | grep -v "^prefix: " > environment.yml'
 
+# Nvim socket
+export NVIM_LISTEN_ADDRESS=/tmp/nvimsocket
+

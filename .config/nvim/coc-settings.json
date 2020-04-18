@@ -66,6 +66,7 @@
     "python.formatting.blackArgs": ["-l 120"],
     "python.analysis.openFilesOnly": true,
     "python.analysis.typeshedPaths": [".out"],
-    "snippets.autoTrigger": true
+    "snippets.autoTrigger": true,
+    "snippets.ultisnips.directories": ["UltisSnips","/home/felipemarcelino/.local/share/nvim/plugged/vim-snippets/snippets/"]
 }
 
